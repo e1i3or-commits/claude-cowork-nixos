@@ -16,7 +16,7 @@ Claude's Cowork feature lets Claude autonomously use your computer - browsing, c
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/claude-cowork-nixos.git
+git clone https://github.com/e1i3or-commits/claude-cowork-nixos.git
 cd claude-cowork-nixos
 
 # Install (downloads Claude Desktop, extracts, patches, installs)
