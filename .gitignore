@@ -1,0 +1,29 @@
+# Extracted Claude Desktop (proprietary - do not commit)
+app/
+app-extracted/
+win-extract/
+nupkg-extract/
+
+# Installers and binaries
+*.exe
+*.nupkg
+*.dmg
+*.asar
+*.AppImage
+*.node
+
+# Node
+node_modules/
+package-lock.json
+
+# Logs
+*.log
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
